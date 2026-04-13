@@ -1,6 +1,8 @@
 # Power BI Sales/Business Dashboard | لوحة تحكم Power BI 📊
 
+![HR Dashboard](Sallah-Dashbord.png)
 
+Watch the full interactive dashboard demo on LinkedIn(https://www.linkedin.com/posts/ahmed-ghanem-415584350_%D8%B3%D8%B9%D9%8A%D8%AF-%D8%AC%D8%AF%D8%A7-%D8%A8%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9-%D8%A3%D9%88%D9%84-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%84%D9%8A-%D8%A8%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-power-activity-7449532422704168960-p-he?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFemYVEBoTWr3TvYkghaj_BS2V6ZIs7b_bg)
 
 **[English Below]**
 
